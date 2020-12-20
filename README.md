@@ -1,7 +1,7 @@
-### Hey, Welcome to my Github Page! 🥶
+### Hey, I'm Maha 🥶
 
-## I'm Maharishi
-- ⏩fast learner
-- 💯developer
+- epic programmer 🔥
+- fast learner ⏩
+- team player 📌
 
-![Maharishi's github stats](https://github-readme-stats.vercel.app/api?username=maharishi2019)
+![Maharishi's github stats](https://github-readme-stats.vercel.app/api?username=maharishi2019&theme=dracula)
