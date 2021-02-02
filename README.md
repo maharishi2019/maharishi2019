@@ -1,4 +1,4 @@
-### Hey, I'm Maha 🥶
+### Hey, I'm Gamma🥶
 
 - epic programmer 🔥
 - fast learner ⏩
